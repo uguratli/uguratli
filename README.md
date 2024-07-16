@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/uguratli/uguratli/blob/main/bh.gif"  />
+  <img height="200" src="https://github.com/uguratli/uguratli/blob/main/bh.gif" style="width:auto;height:auto;max-width:100%;" />
 </div>
 
 ###
