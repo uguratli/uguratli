@@ -45,6 +45,10 @@
   <a href="mailto:uguratli.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+
+<a href="uguratli.github.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
