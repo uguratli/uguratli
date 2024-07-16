@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">I am Uğur Atlı</h1>
+<h1 align="left">Hello there</h1>
 
 ###
 
