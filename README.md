@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-  <img src="https://github.com/uguratli/uguratli/blob/main/bh.gif" style="width:auto;height:auto;max-width:100%;" />
+  <img src="https://github.com/uguratli/uguratli/blob/main/code.gif" style="width:auto;height:auto;max-width:100%;" />
 </div>
 
 ###
