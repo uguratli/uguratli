@@ -7,7 +7,11 @@
 <h1 align="left">Hello there</h1>
 
 ###
+<div align="center">
+  <img src="https://github.com/uguratli/uguratli/blob/main/bh.gif" style="width:auto;height:auto;max-width:100%;" />
+</div>
 
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=uguratli&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
