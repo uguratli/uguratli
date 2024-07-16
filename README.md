@@ -63,6 +63,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/uguratli/uguratli/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/uguratli/count.svg?"  />
 </div>
