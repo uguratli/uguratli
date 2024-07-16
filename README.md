@@ -53,6 +53,12 @@
   </a>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/uguratli/uguratli/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ###
 
 <div align="center">
@@ -60,10 +66,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=atliugu&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/uguratli/uguratli/output/snake.svg" alt="Snake animation" />
 
 ###
 
