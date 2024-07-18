@@ -5,9 +5,10 @@
 ###
 
 <h1 align="left">Hello there, I am Uğur Atlı 👋</h1>
+
 -  I am former PhD candidate in physics, and new data scientist
+
 -  I am looking to collaborate on exciting projects and startups
--  <a href="mailto:uguratli.contact@gmail.com" target="_blank">
 
 ###
 <h1 align="left">My Stack:</h1>
