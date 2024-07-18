@@ -4,8 +4,8 @@
 
 ###
 
-<h1 align="left">Hello there, I am Uğur Atlı 👋</h1>
-<p align="left">Former physics PhD candidate, new data scientist. </p>
+<h2 align="left">Hello there, I am Uğur Atlı 👋</h2>
+<h1 align="left">Former physics PhD candidate, new data scientist. </h1>
 
 ###
 
